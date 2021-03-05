@@ -1,0 +1,35 @@
+[
+	{
+		"id": 1,
+		"itemName": "Indor succulents",
+		"type": "Indor",
+		"price": 2200,
+		"itemImage": "Indor/3.jpg",
+		"description":"Indor succulents is a significant indoor tree. It is one of the few houseplants that prefers to be in the shade and develops its distinctive branches over which attractive leaves grow from bottom to top. so this indoor tree is also suitable for small spaces. "
+	},
+	{
+		"id": 2,
+		"itemName": "polysius plant",
+		"type": "Indor",
+		"price": 250,
+		"itemImage": "Indor/4.jpg",
+		"description":"Polysius is a significant indoor tree. It is one of the few houseplants that prefers to be in the shade and develops its distinctive branches over which attractive leaves grow from bottom to top. so this indoor tree is also suitable for small spaces. "
+	},
+	{
+		"id": 3,
+		"itemName": "Succulent plant",
+		"type": "Indor",
+		"price": 240,
+		"itemImage": "Indor/6.jpg",
+		"description":"Succulent plant is a significant indoor tree. It is one of the few houseplants that prefers to be in the shade and develops its distinctive branches over which attractive leaves grow from bottom to top. so this indoor tree is also suitable for small spaces. "	},
+	{
+		"id": 4,
+		"itemName": "japanese Suite Flag",
+		"type": "Indor",
+		"price": 250,
+		"itemImage": "Indor/7.jpg",
+		"description":"Japanese Suite Flag is a significant indoor tree. It is one of the few houseplants that prefers to be in the shade and develops its distinctive branches over which attractive leaves grow from bottom to top. so this indoor tree is also suitable for small spaces. "	
+    }
+]
+
+ 
